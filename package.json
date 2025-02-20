@@ -1,7 +1,7 @@
 {
   "name": "apirequestproj",
   "version": "0.1.0",
-  "homepage": "https://RuchithaManthani.github.io/react-api-request",
+  "homepage": "https://ruchithamanthani.github.io/react-api-request/",
   "private": true,
   "dependencies": {
     "react": "^19.0.0",
